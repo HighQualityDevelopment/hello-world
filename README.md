@@ -1,2 +1,2 @@
 # hello-world
-It is simple project which prints "Hello World!".
+It is a simple project which prints "Hello World!"??
